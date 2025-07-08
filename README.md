@@ -1,4 +1,3 @@
-# ZEROTRACE
 
 ```
 ▒███████▒▓█████  ██▀███   ▒█████  ▄▄▄█████▓ ██▀███   ▄▄▄       ▄████▄  ▓█████ 
@@ -55,3 +54,7 @@ Ce projet est sous licence "Moi, tous droits réservés, mais librement distribu
 *Développé avec ❤️, 😴 et beaucoup de 🍕*
 
 *ZEROTRACE - Parce que parfois, la meilleure façon de ne pas laisser de traces est de coder en Bash.* ça ne veux rien dire ..
+
+sinon, vous aimez la pizza ? 🍕
+
+![pizza](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txN3J5N2dnaGRjaTZmdXlmajZ6ZHR6cTVsYXBzaW95N3l5N3k0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sTUWqCKtxd01W/giphy.gif)
