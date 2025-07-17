@@ -55,7 +55,8 @@ Ce projet est sous licence "Moi, tous droits réservés, mais librement distribu
 
 Oui le Readme à était fait par une AI. 
 
-*ZEROTRACE - Parce que parfois, la meilleure façon de ne pas laisser de traces est de coder en Bash.* ça ne veux rien dire ..
+*ZEROTRACE - Parce que parfois, la meilleure façon de ne pas laisser de traces est de coder en Bash.* 
+ça ne veux rien dire ..
 
 sinon, vous aimez la pizza ? 🍕
 
